@@ -1,0 +1,6 @@
+
+streamlit_webrtc
+streamlit
+streamlit-webrtc
+opencv-python-headless
+numpy
